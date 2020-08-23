@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components"
 
 export const StyledGameOver = styled.div`
   display: flex;
@@ -15,4 +15,4 @@ export const StyledGameOver = styled.div`
   z-index: 1000;
   border: 4px solid #333;
   font-family: Pixel, Arial, Helvetica, sans-serif;
-`;
+`
